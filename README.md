@@ -1,3 +1,5 @@
+https://travis-ci.org/gaydukov/SpringMvcApp.svg?branch=master
+
 # SpringMvcApp
 if you use SQLite database
 
