@@ -1,5 +1,5 @@
 # SpringMvcApp
-[![Build Status](https://travis-ci.org/gaydukov/SpringMvcApp.svg?branch=master)](https://travis-ci.org/gaydukov/SpringMvcApp)
+
 
 if you use SQLite database
 
